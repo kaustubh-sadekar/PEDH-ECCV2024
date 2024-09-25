@@ -1,0 +1,6 @@
+theme: minima
+title: Single-Photon 3D Imaging with Equi-Depth Photon Histograms
+description: Our work paves the way towards lower bandwidth and reduced in-pixel memory requirements for single-photon 3D cameras, making them attractive for resource-constrained 3D vision applications.
+
+header_pages:
+  about.md
